@@ -166,7 +166,7 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Explore as histórias fantásticas dos personagens mais interessantes dos Mangás japoneses (graphic novels).",
-        "schedule": "Terças às 19h",
+        "schedule": "Terças, 19:00 - 20:00",
         "schedule_details": {
             "days": ["Tuesday"],
             "start_time": "19:00",
